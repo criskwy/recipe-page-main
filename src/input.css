@@ -20,8 +20,8 @@
     src: url("../assets/fonts/outfit/Outfit-VariableFont_wght.ttf") format("ttf"); 
   }
 
-  ul li::marker {
-    color: RGB(147, 94, 51); /* Un color rojo de Tailwind */
+  ol ul li::marker {
+    color: RGB(147, 94, 51); 
   }
 
 @theme {
